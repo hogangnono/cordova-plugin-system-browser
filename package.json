@@ -1,0 +1,22 @@
+{
+    "name": "cordova-plugin-system-browser",
+    "version": "1.0.0",
+    "description": "Opens URLs in the system external browser or as an in-app sheet modal (iOS only)",
+    "cordova": {
+        "id": "cordova-plugin-system-browser",
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    },
+    "keywords": [
+        "cordova",
+        "plugin",
+        "browser",
+        "safari",
+        "ecosystem:cordova"
+    ],
+    "publishConfig": {
+        "registry": "https://npm.housefeed.com"
+    }
+}
