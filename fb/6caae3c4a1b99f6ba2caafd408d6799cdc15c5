@@ -1,0 +1,22 @@
+plugin.xml
+  s_841417351fa815::t_bf64bd8397d6bd 4
+package.json
+  s_841417351fa815::t_f99adcd9c9ea2f 3
+  s_841417351fa815::t_3c69821a505800 1-2,4-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "fb6caae3c4a1b99f6ba2caafd408d6799cdc15c5",
+  "prompts": {},
+  "sessions": {
+    "s_841417351fa815": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f443822d-9ec2-4853-bee9-8df2f85c5d69",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "heath-song <heath@zigbang.com>"
+    }
+  }
+}
